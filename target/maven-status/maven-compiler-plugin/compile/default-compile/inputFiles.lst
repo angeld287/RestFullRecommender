@@ -1,0 +1,9 @@
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\connectdb\Access.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\connectdb\AccessManager.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\Dao\RatingDao.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\model\Rating.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\model\Recommendations.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\Service\RatingService.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\mahoutSimilarity\FillRecommendationModel.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\mahoutSimilarity\itemRecommender.java
+C:\Users\aangeles\Desktop\workspace1\RestFullRecommender\src\main\java\recommender\connectdb\Database.java

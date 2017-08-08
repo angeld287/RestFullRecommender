@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:53:25 +0000] "GET /recommender/rest/ratings HTTP/1.1" 200 2309 http-bio-8080-exec-1 657
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:53:25 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:53:32 +0000] "GET /recommender/rest/ratings/3 HTTP/1.1" 200 14 http-bio-8080-exec-4 243
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:53:39 +0000] "GET /recommender/rest/ratings/2 HTTP/1.1" 200 259 http-bio-8080-exec-7 12
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:56:14 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-9 28
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:11:56:50 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-4 64
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:09:39 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-7 64
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:11:56 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-5 25
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:12:56 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-3 18
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:13:35 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:15:45 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-2 42
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:17:36 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-4 44
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:22:29 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-7 33
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:12:25:00 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-5 28
+0:0:0:0:0:0:0:1 - - [02/Aug/2017:14:52:43 +0000] "GET /recommender/rest/ratings/ HTTP/1.1" 200 2309 http-bio-8080-exec-1 62
